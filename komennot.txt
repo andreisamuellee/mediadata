@@ -1,0 +1,8 @@
+git init
+    - vain ekalla kerralla
+git add .
+git commit -m update
+git remote add origin https://github.com/andreisamuellee/mediadata.git
+    - vain ekalla kerralla
+git push -u origin master
+    - jatkossa vain git push riittää
